@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Raleway', sans-serif;
-    background-image: url(./wave2.png);
+    background-image: url(../img/wave2.png);
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
