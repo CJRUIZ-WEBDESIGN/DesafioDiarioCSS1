@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(./wave2.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+}
+
+/* Estilos generales */
+
+p {
+    color: #000000;
+
+}
+h2 {
+    color: #000000;
+
+}
+h3 {
+    font-size: 14px;
+    color: #000000;
+    text-align: right;
+    text-decoration:underline;
+    padding: 10px;
+    margin-bottom: 8px;
+}
+
+.titulo{
+    color: white;
+    font-weight: 300;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.titulo.left{
+    text-align: left;
+    color: black;
+
+}
+
+.titulo.right{
+    text-align: right;
+    color: black;
+
+}
+
+.cta{
+    display: inline-block;
+    width: 73%;
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+    margin-top: 20px;
+    padding: 12px 15px;
+    border-radius: 50px;
+    color: #080808;
+    font-weight: bold;
+}
+
+.inputform {
+    display: block;
+    width: 70%;
+    padding: 8px;
+    margin: 10px;
+}
+
+
+.sectionPadre{
+    display: flex;
+    width: 900px;
+    margin: 10%;
+    margin-left: 25%;
+}
+
+.div__hijo1{
+    display: absolute;
+    width: 650px;
+    height: 400px;
+    padding: 0;
+}
+
+.div__hijo2 {
+    display: absolute;
+    width: 650px;
+    height: 400px;
+    margin-left: 0px;
+    background-color: white;
+    padding: 20px;
+}
+
+.immg {
+width: 100%;
+height: 100%;
+}
+
+parrafo {
+    color: black;
+}
+p{
+    color: black;
+}
+.inputform {
+    border-radius: 40px;
+}
